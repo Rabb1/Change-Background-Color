@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+}
+
+button {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    opacity: .3;
+    font-weight: bolder;
+    padding: .8rem;
+    border: solid;
+}
