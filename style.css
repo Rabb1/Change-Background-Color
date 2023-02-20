@@ -2,7 +2,7 @@ body {
     background-color: red;
 }
 
-button {
+.button {
     margin: 0;
     position: absolute;
     top: 50%;
@@ -11,4 +11,11 @@ button {
     font-weight: bolder;
     padding: .8rem;
     border: solid;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: gray;
+    color: white;
+    opacity: 1;
 }
